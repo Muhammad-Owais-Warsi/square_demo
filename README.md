@@ -9,8 +9,8 @@ This is a sample demo application showcasing how to integrate **Square** with **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Muhammad-Owais-Warsi/stripe-demo.git
-cd stripe-demo
+https://github.com/Muhammad-Owais-Warsi/square_demo.git
+cd square_demo
 ```
 
 ### 2. Install Dependencies

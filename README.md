@@ -9,7 +9,7 @@ This is a sample demo application showcasing how to integrate **Square** with **
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/Muhammad-Owais-Warsi/square_demo.git
+https://github.com/YOUR_USERNAME/square_demo.git
 cd square_demo
 ```
 
